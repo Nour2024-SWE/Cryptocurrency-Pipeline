@@ -1,4 +1,4 @@
-# RV-Crypto Forecasting Pipeline — Framework points 9–51
+# RV-Crypto Forecasting Pipeline
 
 This package implements the RV-Crypto Framework from point **9 (predefined
 crisis regimes)** through point **51 (final logic / write-up)**. Points 1–8
